@@ -1,0 +1,15 @@
+name: SurvivalGames
+main: com.gmail.grzegorz2047.survivalgames
+api: 1.0.0
+version: ${project.version}
+author: grzegorz2047
+commands:
+ login:
+  description: login command
+  default: true
+ register:
+  description: register command
+  default: true
+ changepassword:
+  description: changepassword command
+  default: true
